@@ -1,0 +1,9 @@
+.logo {
+    background-color: aqua;
+    width: 250px;
+    height: 400px;
+}
+
+.logo img {
+    width: 100%;
+}

@@ -1,0 +1,9 @@
+.menuLinks {
+    color: red;
+    display: flex;
+    gap: 10px;
+}
+
+.menuLinks li {
+    list-style: none;
+}

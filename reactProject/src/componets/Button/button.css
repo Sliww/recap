@@ -1,0 +1,8 @@
+.filled {
+    background-color:red;
+}
+
+.outlined {
+    background-color: white;
+    border: 1px solid red;
+}
