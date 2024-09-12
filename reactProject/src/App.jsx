@@ -3,20 +3,25 @@ import { Button } from './componets/Button/Button'
 import { Navbar } from './componets/Navbar/Navbar'
 
 
-const App =  ()=>  {
-  
-  
+const App = () => {
+
+
   return (
     <>
-      <Navbar/>
+      <Navbar />
       <Button
-      title={"Rimuovi"}
-      style={"filled"}
+        title={"Rimuovi"}
+        style={"filled"}
       />
 
       <Button
-      title={"Aggiungi"}
-      style={"outlined"}
+        title={"Aggiungi"}
+        style={"outlined"}
+      />
+
+      <Button
+        title={"Aggiungi"}
+        style={"outlined"}
       />
     </>
   )
